@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,400italic,600,600italic,700,700italic");
+
+body {
+    background-image: url("dots1.png");
+}
+h1 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 680;
+    letter-spacing: 0.1em;
+    line-height: 1.5em;
+    margin-bottom: 1em;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 6em;
+	margin: 0;
+	color: black;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+h2 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 500;
+    letter-spacing: 0.125em;
+    line-height: 1.75em;
+    margin-bottom: 1em;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 2.5em;
+	margin: 0;
+	color: black;
+}
+h3 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 650;
+    letter-spacing: 0.125em;
+    line-height: 1.75em;
+    margin-bottom: 1em;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 2.5em;
+	margin: 0;
+	color: black;
+}
+p {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    letter-spacing: 0.125em;
+    line-height: 1.75em;
+    margin-bottom: 1em;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 1em;
+	margin: 0;
+	color: black;
+	padding-top: 90px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 12%;
+    padding-bottom: 0px;
+}
